@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces
 
-- 📫 How to reach me (kavishkachathumal276@gmail.com)
+- 📫 How to reach me **kavishkachathumal276@gmail.com**
   
 ---
 
