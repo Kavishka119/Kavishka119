@@ -26,54 +26,103 @@
 <img align="right" height="168" src="https://avatars.githubusercontent.com/u/137688716?v=4"  />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="35" alt="threejs logo"  />
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=threejs" height="35" alt="threejs logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
+  </a>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="35" alt="netlify logo"  />
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" height="35" alt="netlify logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="35" alt="codepen logo"  />
+  <a href="https://codepen.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codepen" height="35" alt="codepen logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
+  </a>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo" />
+  </a>
 </div>
+
 
 ##
 
