@@ -146,14 +146,11 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table >
-<tr >
+<tr>
 <td width="100%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kavishka119&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  
 </td>
-
 </tr>
 </table>
 <div align="center">
