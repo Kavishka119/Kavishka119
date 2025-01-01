@@ -6,7 +6,7 @@
 ---
  
 
-- 🔭 I’m currently working on [Freelancer]()
+- 🔭 I’m currently working on [AQUOS Software Solutions]()
   
 
 - 🌱 I’m currently learning Laravel , Typescript and node.js  
