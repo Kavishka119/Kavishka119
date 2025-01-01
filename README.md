@@ -147,15 +147,9 @@
 <p align="center">
 <table >
 <tr >
-<td width="50%" align="center">
+<td width="100%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kavishka119&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  
-</td>
-<td width="50%" align="center">
-  
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavishka119&theme=dark&show_icons=true&count_private=true" /> 
   <br></br>
   
 </td>
