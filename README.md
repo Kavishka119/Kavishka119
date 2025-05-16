@@ -1,128 +1,68 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Kavishka Chathumal</h1>
-<h3 align="center">Full-Stack Software Engineer 👨‍💻</h3>
+<h1 align="center">Hi 👋, I'm Kavishka Chathumal Kumaragama</h1>
+<h3 align="center">👨‍💻 Full-Stack Software Engineer 👨‍💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kavishka119&label=Profile%20views&color=0e75b6&style=flat" alt="Kavishka119" /> </p>
 
 ---
  
+<picture>
+<a href="https://github.com/Kavishka119.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/Kavishka119.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+</a>
+</picture>
 
-- 🔭 I’m currently working on [AQUOS Software Solutions]()
-  
+```js
+"use creativity";
+import { Person } from "Sri Lanka";
 
-- 🌱 I’m currently learning Laravel , Typescript and node.js  
-  
+new Person({
+  name: "Kavishka Chathumal Kumaragama",
+  title: "Full Stack Software Engineer",
+  email: "kavishkachathumal276@gmail.com",
+  website: "kavishkachathumal.vercel.app",
+}).introduce();
+```
 
-- ❓ Ask me about anything related to PHP , Java ,React, and related Technologies  
-  
+```cmd
+D:\lab\Kavishka119> node index.js
+Hi, my name is Kavishka Chathumal Kumaragama, I'm a Full Stack Software Engineer from Sri Lanka.
+```
 
-- ⚡ Fun fact: I use tabs over spaces
+<!-- skills -->
+<br /><br />
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
 
-- 📫 How to reach me **kavishkachathumal276@gmail.com**
-  
----
+  </a>
+</p>
+<br />
 
-<table align="center">
-<tr border="none">
-<img align="right" height="168" src="https://avatars.githubusercontent.com/u/137688716?v=4"  />
-
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+        </picture>
   </a>
-  <img width="15" />
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
-  </a>
-  <img width="15" />
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-  </a>
-  <img width="15" />
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=threejs" height="35" alt="threejs logo" />
-  </a>
-  <img width="15" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
-  </a>
-  <img width="15" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
-  </a>
-  <img width="15" />
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
-  </a>
-  <img width="15" />
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
-  </a>
-  <img width="15" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
-  </a>
-  <img width="15" />
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-  </a>
-  <img width="15" />
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify" height="35" alt="netlify logo" />
-  </a>
-  <img width="15" />
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
-  </a>
-  <img width="15" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
-  </a>
-  <img width="15" />
-  <a href="https://codepen.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" height="35" alt="codepen logo" />
-  </a>
-  <img width="15" />
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" />
-  </a>
-  <img width="15" />
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
-  </a>
-  <img width="15" />
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo" />
-  </a>
-</div>
-
+<br />
 
 ##
 
@@ -143,16 +83,42 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table >
-<tr>
-<td width="100%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kavishka119&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
-</tr>
-</table>
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kavishka119&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=Kavishka119&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kavishka119&theme=default&border=61dafb" alt="Kavishka119's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kavishka119&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Kavishka119&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kavishka119&show_icons=true&theme=default&border_color=61dafb" alt="Kavishka119's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka119&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka119&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka119&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Kavishka119's contribution graph" />
+    </picture>
+  </a>
+</p>
+
+<hr />
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
