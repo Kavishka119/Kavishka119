@@ -19,7 +19,7 @@ new Person({
   name: "Kavishka Chathumal Kumaragama",
   title: "Full Stack Software Engineer",
   email: "kavishkachathumal276@gmail.com",
-  website: "kavishkachathumal.vercel.app",
+  website: "kavishka.vercel.app",
 }).introduce();
 ```
 
