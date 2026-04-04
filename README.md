@@ -88,7 +88,17 @@ Hi, my name is Kavishka Chathumal Kumaragama, I'm a Full Stack Software Engineer
 <br />
 <p align=center>
 <!-- first row -->
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka119&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka119&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka119&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Kavishka119's contribution graph" />
+    </picture>
+  </a>
+</p>
 
+<hr />
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
